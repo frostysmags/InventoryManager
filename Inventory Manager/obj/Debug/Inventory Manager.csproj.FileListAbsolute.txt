@@ -1,0 +1,27 @@
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\Inventory Manager.exe.config
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\Inventory Manager.exe
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\Inventory Manager.pdb
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csproj.AssemblyReference.cache
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\MainWindow.g.cs
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\App.g.cs
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager_MarkupCompile.cache
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager_MarkupCompile.lref
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\MainWindow.baml
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.g.resources
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory_Manager.Properties.Resources.resources
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csproj.GenerateResource.cache
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csproj.CoreCompileInputs.cache
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.exe
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.pdb
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\System.Text.Json.dll
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\System.Memory.dll
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\System.Buffers.dll
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.exe.config
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.csproj.CopyComplete
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\Inventory Manager.exe.manifest
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\bin\Debug\Inventory Manager.application
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.exe.manifest
+C:\Users\adellorfano\Documents\VisualStudio\Inventory Manager\Inventory Manager\obj\Debug\Inventory Manager.application
